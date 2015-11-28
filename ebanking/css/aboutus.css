@@ -1,0 +1,132 @@
+
+
+
+
+.th
+{
+            background:aliceblue;
+            witdh :100px;
+            height:410px;
+           border-radius: 35px;
+
+}
+
+
+.pad
+{
+    
+    background:grey;
+    width:900px;
+    height:50px;
+    padding-bottom: 900px;
+    border-radius: 3px;
+    border-bottom-style: ridge;
+    border-top-style: ridge;
+       
+}
+
+.user
+{
+ color:maroon;
+}
+
+
+
+.h5
+{
+    margin-left: 60px;
+   
+}
+
+
+.p{
+    
+    margin-top: px;
+    margin-left:0px;
+    margin-bottom: 3px;
+    
+}
+td{ padding-left: 1cm;
+    padding-right: 1cm;
+
+}
+
+.ali{
+    
+    color:#888888 ;     	
+    font-family:fantasy;
+    text-align: left;
+    padding-left: 1cm;
+    padding-top: 2cm;
+ font-size:1cm;   
+}
+
+
+.contact{
+
+    background:#F0F0F0;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-style:ridge;
+    border-top-style: ridge;
+    border-left-style:ridge;
+    border-right-style: ridge;
+    width:900px;
+    height:900px;
+    
+ 
+}
+.tabledata{
+    
+ color:#888888;
+    font-size: 0.5 cm;
+    
+    
+}
+
+.but{
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    color:white;
+     background:cadetblue;
+     padding-left: 1cm;
+    padding-right: 1.3cm;
+    padding-bottom: 0.5cm;
+    padding-top: 1cm;
+    margin-left: 10cm;
+    width:30px;
+    height20px;
+    text-shadow: 2px;
+    border-style: groove;
+    
+}
+.but:hover{
+ background:cadetblue;
+ 
+ color:black;  
+    
+}
+textarea {
+    font-family: monospace;
+    border-color: rgb(169, 169, 169);
+    background-color: white;
+    border: 1px solid;
+    padding: 2px;
+     margin: 0em;
+    font: 14.3333px Arial;
+  
+  
+    
+
+}
+
+input[type=text], form input[type=password]{ border: 1px solid black; padding: 5px; width:300px; height:50px;}
+
+
+
+
+

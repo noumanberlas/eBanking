@@ -1,0 +1,13 @@
+
+
+.form1 input[type=text],.form input[type=password] { border: 1px solid white; padding: 5px;}
+.pop { padding: 30px 30px 30px; background:black; z-index: 999; display: none; position:absolute;right: 0 ; align:; }
+
+.close{ font-weight: bold; color: #F00; float: right; position: absolute; bottom: 5px; right: 10px; }
+
+
+.form1{ background: #eee; padding: 100px ; }
+.form1 #p{ padding: 5px 0;}
+.form1 #title1{ min-width: 100px; display:inline-block; }
+
+
